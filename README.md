@@ -38,7 +38,7 @@ The dashboard can be used to:
 
 ## Dashboard Preview
 
-![Amazon Sales Dashboard](dashboard-page.png)
+![Amazon Sales Dashboard](dashboard-page)
 
 ## Project Objective
 
